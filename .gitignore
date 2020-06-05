@@ -1,0 +1,8 @@
+/.env/
+/package/
+/build/
+/*.zip
+*.pyc
+/knobo.egg-info/
+/dist/
+/myenv/
